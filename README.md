@@ -9,7 +9,7 @@
 ## Generelle Information
 
 > Der Code für diese Website zeigt einen simplen Countdown zu den Brandenburgischen Sommerferien 2021.
-> Das **Forken** oder **CURLING** des Codes ist verboten und wird unter der *General GitHub Interlectual Property of Digital Work* geschützt.
+> Das **Forken** oder **CURLING** des Codes ist verboten und wird unter der Lizens *General GitHub Interlectual Property of Digital Work* geschützt.
  
 ## Vorschau
 
