@@ -3,7 +3,7 @@
 
 body {
   animation-name: background;
-  animation-duration: 5s;
+  animation-duration: 2.5s;
   animation-iteration-count: infinite;
 }
 
@@ -53,14 +53,10 @@ p {
   font-family: Roboto;
   font-weight: 100;
   text-align: center;
-
-  border-radius: 4px;
 }
 
-
 @keyframes background {
-  0% {background-color: #FFAAAA}
-  33% {background-color: #AAFFAA}
-  66% {background-color: #AAAAFF}
-  100% {background-color: #FFAAAA}
+  0% {background-color: #404040}
+  50% {background-color: #606060}
+  100% {background-color: #404040}
 }
