@@ -1,15 +1,12 @@
 # ger-sommerferien-countdown
 
-[GER] Countdown zu den Sommerferien
-[ENG] Countdown to Summer break
 
-
-## INFO: This is a Project oriented around the german language. Thus this README is in german.
+## INFO: This is a Project oriented around the german language. Thus this README and the whole Website is in german.
 
 ## Generelle Information
 
-> Der Code für diese Website zeigt einen simplen Countdown zu den Brandenburgischen Sommerferien 2021.
-> Das **Forken** oder **CURLING** des Codes ist verboten und wird unter der Lizens *General GitHub Interlectual Property of Digital Work* geschützt.
+> Der Code für diese Website zeigt mehrere Countdowns für Termine die wichtig für Schüler von brandenburgischen Gymnasien sind.
+> Das **FORKEN** oder **CURLEN** dieses Codes ist aufgrund der *General GitHub Interlectual Property of Digital Work License* verboten.
  
 ## Vorschau
 
