@@ -5,7 +5,7 @@
 
 ## Generelle Information
 
-Ein Countdown zu dem Anfang der Sommerferien 2020. Dieses Projekt wurde für meine Schule, das Schiller-Gymnasium-Potsdam gemacht, damit die Website auf einem Fernseher im Foyer angezeigt werden kann. Es nutzt simplen JavaScript Code, uns ein paar CSS animationen, um besser auszusehen.
+Ein Countdown zu dem Anfang der Sommerferien 2021, sowie wann die Mathematik MSA anfängt. Dieses Projekt wurde für meine Schule, das Schiller-Gymnasium-Potsdam gemacht, damit die Website auf einem Fernseher im Foyer angezeigt werden kann. Es nutzt simplen JavaScript Code, um ein paar CSS animationen, um besser auszusehen.
  
 ## Vorschau
 
